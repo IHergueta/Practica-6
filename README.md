@@ -1,0 +1,3 @@
+# Practica-6
+En esta práctica hemos tenido que crear un libreria de java, utilizado comandos como javac.
+Después de crear el .jar, la hemos implementado en un proyecto nuevo donde conjunto a una base de datos, ultilizaremos métodos de la libreria para crear ventas, consultar productos...
